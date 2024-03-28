@@ -19,4 +19,4 @@ Required to model the price of houses with the available independent variables. 
 - sklearn - version 1.3.0
 
 ## Acknowledgements
-- This project was based on Linear Regression Module for the Executive PG Programme in Machine Learning & AI
+- This project was based on Advanced Regression for the Executive PG Programme in Machine Learning & AI
